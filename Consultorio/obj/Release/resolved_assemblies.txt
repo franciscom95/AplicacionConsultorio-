@@ -1,0 +1,9 @@
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\Consultorio.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\Java.Interop.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\Mono.Android.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\mscorlib.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\System.Core.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\System.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\System.Xml.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\frank\Desktop\ConsultorioV5\Consultorio\Consultorio\obj\Release\android\assets\System.ServiceModel.Internals.dll
